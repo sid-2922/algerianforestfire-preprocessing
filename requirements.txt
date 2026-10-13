@@ -1,0 +1,10 @@
+scikit-learn
+pandas
+lxml
+bs4
+beautifulsoup4
+requests
+seaborn
+flask
+streamlit
+scikit-learn
